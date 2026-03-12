@@ -59,6 +59,8 @@ Power BI Dashboard shows:
 - Ratings Distribution (driver vs customer)  
 - Top 5 Customers by Booking Value  
 
+![OLA Data Analytics Dashboard](images/OLA_overall.png)
+
 ---
 
 ## ▶️ How to Run This Project
